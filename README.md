@@ -1,2 +1,6 @@
 # odin-recipes-
-Odin Recipes Assignment 
+Odin Recipes Assignment:
+
+First assignemnt of The Odin Project to demonstrate current knowledge
+
+
